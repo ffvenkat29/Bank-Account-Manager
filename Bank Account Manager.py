@@ -17,7 +17,7 @@ class account:
             return "withdraw sucessful"
         return "withdrawl notsucessful"
 
-acc_1 = account(9849163061,"gopi",500000)
+acc_1 = account(957292871,7"gopi",500000)
 print(acc_1.acc_name)
 print(acc_1.acc_bal)
 print(acc_1.acc_bal)
